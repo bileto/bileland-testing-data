@@ -30,7 +30,7 @@ Routes: 4
 
 Calendar: 
 
-* 1. 1. 2015 - 31.  12. 2070
+* 01. 01. 2015 - 31.  12. 2070
 * every day
 * no date exceptions
 
