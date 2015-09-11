@@ -1,0 +1,6 @@
+stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding,border,stop_desc,stop_timezone,stop_city,stop_country,stop_admin_level1,stop_admin_level2,stop_admin_level3
+1,"Big Bil, Central Bus Station",50.0901547,14.433859,1,0,WC,Europe/Prague,Big Bil,Bileland,Central Bileland,Big Bil Capital,Big Bil Capital
+2,"Backwoods, Bus Station",49.1861469,16.5988658,1,0,WiFi,Europe/Prague,Backwoods,Bileland,Backwater Area,Backwoods,Hole District
+3,L'Somesmallcity,48.9872711,14.4817842,0,0,,Europe/Prague,L'Somesmallcity,Bileland,Central Bileland,Somebigcity Region,Small District
+4,Between City,49.3978122,15.5827283,0,0,WC,Europe/Prague,Between City,Bileland,Backwater Area,Backwoods,Between District
+5,Far North,50.6585681,14.0439681,1,0,Winter is coming,Europe/Prague,Far North,Bileland,Far Far North Area,Snow North Region,Ice District

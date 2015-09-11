@@ -1,0 +1,5 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_desc
+1,1,Bus BBB,Backwoods – Big Bil route,3,Nobody goes there
+2,1,Bus LBB,L'Somesmallcity – Big Bil,3,
+3,1,Bus FNBB,Far North – Big Bil,3,Ski transport for free!
+4,1,Bus FNB,Far North – Backwoods,3,Why somebody should use this route?
