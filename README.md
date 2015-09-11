@@ -14,6 +14,7 @@ This is work of data team. For complaints, requirements etc. turn to us.
 ### Version 1.0 ###
 Country: 1 (i. e. no trips to anothers countries), Bileland
 Cities: 5 
+
 * Big Bil ("Capital", most trips go here)
 * L'Somesmallcity
 * Backwoods
@@ -21,12 +22,14 @@ Cities: 5
 * Between City (no statr/end of any trip)
 
 Routes: 4
+
 * Big Bil <-> L'Somesmallcity (2x2 trips)
 * Big Bil <-> Between City <-> Backwoods (2x2 trips)
 * Big Bil <-> Far North (2x2 trips)
 * Far North <-> Backwoods (2x1 trip)
 
 Calendar: 
+
 * 1. 1. 2015 - 31.  12. 2070
 * every day
 * no date exceptions
