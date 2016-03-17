@@ -1,0 +1,6 @@
+stop_id,type,id
+1,cis,55775
+2,cis,2774
+3,cis,4842
+4,cis,13234
+5,cis,37807
