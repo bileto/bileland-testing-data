@@ -3,7 +3,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_desc
 2,1,Bus LBB,L'Somesmallcity – Big Bil,3,
 3,1,Bus FNBB,Far North – Big Bil,3,Ski transport for free!
 4,1,Bus FNB,Far North – Backwoods,3,Why somebody should use this route?
-5,1,Bus BBD, Big Bil – Dragonstone,3,Do not feed the dragon
-6,1,Bus LLD, L'Somesmallcity – Dragonstone,3,This seems like sighseeing tour...
-7,1,Bus BS,Backwoods – Shortpants,Backwoods trip
-8,1,Bus BL,Backwoods – Livedon,Another backwoods trip
+5,1,Bus BBD,Big Bil – Dragonstone,3,Do not feed the dragon
+6,1,Bus LLD,L'Somesmallcity – Dragonstone,3,This seems like sighseeing tour...
+7,1,Bus BS,Backwoods – Shortpants,3,Backwoods trip
+8,1,Bus BL,Backwoods – Livedon,3,Another backwoods trip
