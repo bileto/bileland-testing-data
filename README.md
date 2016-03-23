@@ -26,12 +26,10 @@ Cities: 5
 * Between City (Bileland) (no statr/end of any trip)
 * Enjoytown (Bileland) (border crossing city with Cathowia) 
 * Old Grape Village (Bileland) (border crossing city with Tatrabros)
-
 * Hangman's City (Cathowia)
 * Dragonstone (Cathowia)
 * Enjoytown (Cathowia) (border crossing city with Bileland)
 * Mountains Pass (Cathowia) (border crossing city with Tatrabros)
- 
 * Shortpants (Tatrabros)
 * Livedon (Tatrabros)
 * Old Grape Village (Bileland) (border crossing city with Bileland)
