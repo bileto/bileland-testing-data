@@ -17,7 +17,7 @@ Country: 3
 * Cathowia
 * Tatrabros
 
-Cities: 5 
+Cities: 15 
 
 * Big Bil (Bileland) ("Capital", most trips go here)
 * L'Somesmallcity (Bileland)
