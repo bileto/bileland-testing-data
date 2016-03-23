@@ -1,5 +1,9 @@
 route_id,agency_id,route_short_name,route_long_name,route_type,route_desc
-1,1,Bus BBB,Backwoods – Big Bil route,3,Nobody goes there
+1,1,Bus BBB,Backwoods – Big Bil,3,Nobody goes there
 2,1,Bus LBB,L'Somesmallcity – Big Bil,3,
 3,1,Bus FNBB,Far North – Big Bil,3,Ski transport for free!
 4,1,Bus FNB,Far North – Backwoods,3,Why somebody should use this route?
+5,1,Bus BBD, Big Bil – Dragonstone,3,Do not feed the dragon
+6,1,Bus LLD, L'Somesmallcity – Dragonstone,3,This seems like sighseeing tour...
+7,1,Bus BS,Backwoods – Shortpants,Backwoods trip
+8,1,Bus BL,Backwoods – Livedon,Another backwoods trip
