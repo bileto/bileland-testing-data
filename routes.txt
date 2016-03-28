@@ -7,3 +7,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_desc
 6,1,Bus LLD,L'Somesmallcity – Dragonstone,3,This seems like sighseeing tour...
 7,1,Bus BS,Backwoods – Shortpants,3,Backwoods trip
 8,1,Bus BL,Backwoods – Livedon,3,Another backwoods trip
+9,2,Bus SL,Shortpants – Livedon,3,Halusky for free!
+10,3,Bus BS2,Backwoods – Shortpants,3,
+11,4,Bus LHC,Livedon – Hangman's City,3,Dragon does not eat pirohy... neither the hangman does
