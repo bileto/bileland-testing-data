@@ -1,5 +1,5 @@
 "agency_id","agency_name","agency_url","agency_timezone","agency_address","agency_phone","agency_email"
 1,"Zaginiony, LTE","http://www.example.com/","Europe/Prague","Here and There 5, Big Bil 123 45, Bileland",,"email@example.com"
-2,"Halusky, s. r. o.","http://www.example.com/","Europe/Prague","Somestreet 8, Shortpants 111 22, Tatrabros",,"email@example.com"
-3,"Bryndza, s. r. o.","http://www.example.com/","Europe/Prague","Anotherstreet 9, Livedon 222 11, Tatrabros",,"email@example.com"
-4,"Piroh, z .s. o. o.","http://www.example.com/","Europe/Prague","Somewhere 4, Hangman's City 29-301, Cathowia",,"email@example.com"
+2,"Halusky, s.r.o.","http://www.example.com/","Europe/Prague","Somestreet 8, Shortpants 111 22, Tatrabros",,"email@example.com"
+3,"Bryndza, s.r.o.","http://www.example.com/","Europe/Prague","Anotherstreet 9, Livedon 222 11, Tatrabros",,"email@example.com"
+4,"Piroh, s.z.o.o.","http://www.example.com/","Europe/Prague","Somewhere 4, Hangman's City 29-301, Cathowia",,"email@example.com"
