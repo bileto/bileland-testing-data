@@ -14,3 +14,4 @@
 13,"Livedon","49.2248956","18.7477075",1,0,"WiFi","Europe/Bratislava","Livedon","Tatrabros","Tatrafoothills","Livedon Region","Livedon Disctrict","SK"
 14,"Mountains Pass, Border crossing C","49.4087411","19.6594156",0,1,"You do not want to pass the border here","Europe/Warsaw","Hangman's City","Cathowia","South Cathowia","Hanging Region","Hangman's City District","PL"
 15,"Mountains Pass, Border crossing T","49.4076067","19.6582889",0,1,"You do not want to pass the border here","Europe/Bratislava","Mountains Pass","Tatrabros","Tatrafoothills","Highland","Mount District","SK"
+16,"Nowhere",,,0,0,"This stop has no location","Europe/Prague","Nowhere","Nowhere","Nowhere","Nowhere","Nowhere","CZ"
